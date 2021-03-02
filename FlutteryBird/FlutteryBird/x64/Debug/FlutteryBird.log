@@ -1,0 +1,76 @@
+﻿  Bird.cpp
+  Flash.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\flash.cpp(15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aksha\source\repos\flutterybird\flutterybird\flash.cpp(25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aksha\source\repos\flutterybird\flutterybird\flash.cpp(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\game.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOverState.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\gameoverstate.cpp(65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\aksha\source\repos\flutterybird\flutterybird\gameoverstate.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\aksha\source\repos\flutterybird\flutterybird\gameoverstate.cpp(74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aksha\source\repos\flutterybird\flutterybird\gameoverstate.cpp(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\aksha\source\repos\flutterybird\flutterybird\gameoverstate.cpp(81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GameState.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\gamestate.cpp(64): warning C4305: 'argument': truncation from 'double' to 'float'
+  HUD.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\hud.cpp(13): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aksha\source\repos\flutterybird\flutterybird\hud.cpp(46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Land.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\land.cpp(28): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Main.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\main.cpp(6): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MainMenuState.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\mainmenustate.cpp(24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\aksha\source\repos\flutterybird\flutterybird\mainmenustate.cpp(23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\aksha\source\repos\flutterybird\flutterybird\mainmenustate.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Pipe.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\pipe.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aksha\source\repos\flutterybird\flutterybird\pipe.cpp(21): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aksha\source\repos\flutterybird\flutterybird\pipe.cpp(32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aksha\source\repos\flutterybird\flutterybird\pipe.cpp(42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  SplashState.cpp
+c:\users\aksha\source\repos\flutterybird\flutterybird\splashstate.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aksha\source\repos\flutterybird\flutterybird\splashstate.cpp(45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  FlutteryBird.vcxproj -> C:\Users\aksha\source\repos\FlutteryBird\x64\Debug\FlutteryBird.exe
